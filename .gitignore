@@ -1,0 +1,14 @@
+# Ignore credentials.json for Google API keys
+credentials.json
+client_secret.json
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints (if you're using Jupyter)
+.ipynb_checkpoints/
+
+# Ignore environment folders
+.venv/
+env/
