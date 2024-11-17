@@ -12,3 +12,7 @@ __pycache__/
 # Ignore environment folders
 .venv/
 env/
+
+# Ignore Streamlit secrets file
+.streamlit/secrets.toml
+
