@@ -1,5 +1,9 @@
 # **PROJECT NAME - DATA HARVESTER**
 
+
+# **LOOM Video for the project - https://www.loom.com/share/b804a84994ef47a8b722cacbb403e603?sid=91fe6d9c-ca63-4b6d-ac4e-934de76233e4**
+
+
 ### **Project Description**
 
 Data Harvester is a comprehensive AI-based agent designed for efficient data extraction and processing. This tool facilitates seamless integration of datasets from CSV files or Google Sheets and leverages cutting-edge technologies such as large language models (LLMs) and web scraping APIs to retrieve and organize specific information based on user-defined queries.
