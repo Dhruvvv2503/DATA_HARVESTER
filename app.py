@@ -147,7 +147,7 @@ class LLMProcessor:
         total_entities = len(entities)
 
         for idx, entity in enumerate(entities):
-            customized_query = prompt.replace("{company}", entity)
+            customized_query = prompt.replace("{entity}", entity)
             search_results = self.get_search_results(customized_query)
             search_text = " ".join(result.get("snippet", "") for result in search_results)
             full_prompt = f"{customized_query}\nSearch Results: {search_text}"
