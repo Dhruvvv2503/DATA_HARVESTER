@@ -1,6 +1,8 @@
 # Ignore credentials.json for Google API keys
 credentials.json
 client_secret.json
+token.pickle
+token.pkl
 
 # Ignore Python bytecode files
 __pycache__/
